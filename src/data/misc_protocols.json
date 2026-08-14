@@ -1,0 +1,122 @@
+[
+  {
+    "id": "3gpp-ts23.002",
+    "name": "TS 23.002 - Network Architecture",
+    "category": "MISC",
+    "subcategory": "网络架构总览",
+    "release": "Rel-15/16",
+    "description": "3GPP网络架构总览，定义所有无线接入类型和核心网演进。",
+    "keyFeatures": [
+      "3GPP体系",
+      "RAN分类",
+      "CN演进",
+      "SAE/5GC"
+    ],
+    "url": "https://portal.3gpp.org/"
+  },
+  {
+    "id": "3gpp-ts23.003",
+    "name": "TS 23.003 - Numbering",
+    "category": "MISC",
+    "subcategory": "编号与寻址",
+    "release": "Rel-15",
+    "description": "subscriber numbering and addressing规范。",
+    "keyFeatures": [
+      "IMSI",
+      "MSISDN",
+      "SUPITransient",
+      "GPSI"
+    ],
+    "url": "https://portal.3gpp.org/"
+  },
+  {
+    "id": "3gpp-ts23.060",
+    "name": "TS 23.060 - GPRS",
+    "category": "MISC",
+    "subcategory": "GPRS/EDGE",
+    "release": "Rel-15",
+    "description": "GPRS通用分组无线服务规范。",
+    "keyFeatures": [
+      "GTP-U",
+      "GTP-C",
+      "PDP上下文",
+      "SGSN/GGSN"
+    ],
+    "url": "https://portal.3gpp.org/"
+  },
+  {
+    "id": "3gpp-ts29.274",
+    "name": "TS 29.274 - GTPv2-C",
+    "category": "MISC",
+    "subcategory": "GTPv2",
+    "release": "Rel-15",
+    "description": "GTPv2控制面协议，用于S4/S11/Sx接口。",
+    "keyFeatures": [
+      "Create Session",
+      "Modify Bearer",
+      "Delete Session",
+      "Echo Request"
+    ],
+    "url": "https://portal.3gpp.org/"
+  },
+  {
+    "id": "3gpp-ts24.008",
+    "name": "TS 24.008 - MM/SM",
+    "category": "MISC",
+    "subcategory": "GMM/SM",
+    "release": "Rel-15",
+    "description": "GPRS移动性管理和会话管理协议。",
+    "keyFeatures": [
+      "GMM",
+      "SM PDU",
+      "激活",
+      "去激活"
+    ],
+    "url": "https://portal.3gpp.org/"
+  },
+  {
+    "id": "3gpp-ts29.118",
+    "name": "TS 29.118 - HTTP/2 NAAF",
+    "category": "MISC",
+    "subcategory": "HTTP/2接口",
+    "release": "Rel-16",
+    "description": "基于HTTP/2的非接入层认证与授权接口。",
+    "keyFeatures": [
+      "NSSF API",
+      "HTTP/2",
+      "OAuth2",
+      "JSON"
+    ],
+    "url": "https://portal.3gpp.org/"
+  },
+  {
+    "id": "3gpp-ts23.501-r18",
+    "name": "TS 23.501 Rel-18",
+    "category": "MISC",
+    "subcategory": "Rel-18特性",
+    "release": "Rel-18",
+    "description": "Release 18增强特性，包括RedCap、AI/ML空口。",
+    "keyFeatures": [
+      "RedCap",
+      "AI/ML空口",
+      "NR Light",
+      "感知通信"
+    ],
+    "url": "https://portal.3gpp.org/"
+  },
+  {
+    "id": "3gpp-ts38.823",
+    "name": "TS 38.823 - ISAC",
+    "category": "MISC",
+    "subcategory": "感知通信一体",
+    "release": "Rel-18",
+    "description": "integrated Sensing and Communication (ISAC) 规范。",
+    "keyFeatures": [
+      "雷达感知",
+      "通信感知共存",
+      "目标检测",
+      "定位一体化"
+    ],
+    "url": "https://portal.3gpp.org/"
+  }
+]

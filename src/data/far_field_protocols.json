@@ -1,0 +1,92 @@
+[
+  {
+    "id": "3gpp-ts38.104-far",
+    "name": "TS 38.104 - NR Far Field",
+    "category": "FAR_FIELD",
+    "subcategory": "远场NR覆盖",
+    "release": "Rel-15/16",
+    "description": "5G NR远场覆盖增强规范，支持广域深度覆盖。",
+    "keyFeatures": [
+      "Massive MIMO",
+      "波束赋形",
+      "Coverage Class",
+      "CRCE扩频"
+    ],
+    "url": "https://portal.3gpp.org/"
+  },
+  {
+    "id": "3gpp-ts38.133-far",
+    "name": "TS 38.133 - Far Field Measurements",
+    "category": "FAR_FIELD",
+    "subcategory": "远场测量",
+    "release": "Rel-16/17",
+    "description": "远场场景下的测量和报告规范。",
+    "keyFeatures": [
+      "RRC测量配置",
+      "CSI报告",
+      "A3/A5事件",
+      "功率控制"
+    ],
+    "url": "https://portal.3gpp.org/"
+  },
+  {
+    "id": "3gpp-ts38.174-far",
+    "name": "TS 38.174 - NRS Far Field",
+    "category": "FAR_FIELD",
+    "subcategory": "远场参考信号",
+    "release": "Rel-16",
+    "description": "非地面网络远场参考信号设计。",
+    "keyFeatures": [
+      "NTN参考信号",
+      "SRS",
+      "DMRS",
+      "PT-RS"
+    ],
+    "url": "https://portal.3gpp.org/"
+  },
+  {
+    "id": "3gpp-ts23.501-far",
+    "name": "TS 23.501 Far Field",
+    "category": "FAR_FIELD",
+    "subcategory": "远场架构",
+    "release": "Rel-17",
+    "description": "支持远场覆盖的5G架构增强。",
+    "keyFeatures": [
+      "远程UPF",
+      "分层切换",
+      "广域QoS",
+      "边缘计算"
+    ],
+    "url": "https://portal.3gpp.org/"
+  },
+  {
+    "id": "3gpp-ts38.215-far",
+    "name": "TS 38.215 - Far Field RF",
+    "category": "FAR_FIELD",
+    "subcategory": "远场射频",
+    "release": "Rel-15/16",
+    "description": "5G NR远场射频要求和测量。",
+    "keyFeatures": [
+      "EIRP",
+      "EIRP密度",
+      "RLM",
+      "RSRP测量"
+    ],
+    "url": "https://portal.3gpp.org/"
+  },
+  {
+    "id": "3gpp-ts38.508-far",
+    "name": "TS 38.508 - Far Field Conformance",
+    "category": "FAR_FIELD",
+    "subcategory": "远场一致性",
+    "release": "Rel-16",
+    "description": "5G NR远场设备一致性测试规范。",
+    "keyFeatures": [
+      "OTA测试",
+      "辐射测试",
+      "接收测试",
+      "EMC"
+    ],
+    "url": "https://portal.3gpp.org/"
+  }
+]

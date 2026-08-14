@@ -1,0 +1,292 @@
+[
+  {
+    "id": "3gpp-ts23.501",
+    "name": "TS 23.501 - System Architecture",
+    "category": "TN",
+    "subcategory": "5G SA架构",
+    "release": "Rel-15/16/17",
+    "description": "5G系统架构规范，定义非独立组网(NSA)和独立组网(SA)架构，包括AMF/SMF/UPF核心网元。",
+    "keyFeatures": [
+      "5GC架构",
+      "NDM网络域名",
+      "SBA服务化架构",
+      "URSP规则"
+    ],
+    "url": "https://portal.3gpp.org/"
+  },
+  {
+    "id": "3gpp-ts23.502",
+    "name": "TS 23.502 - Procedures",
+    "category": "TN",
+    "subcategory": "5G流程",
+    "release": "Rel-15/16/17",
+    "description": "5GS移动性管理和会话管理流程规范。",
+    "keyFeatures": [
+      "注册流程",
+      "PDU会话建立",
+      "移动性管理",
+      "信令流程"
+    ],
+    "url": "https://portal.3gpp.org/"
+  },
+  {
+    "id": "3gpp-ts23.503",
+    "name": "TS 23.503 - Policy",
+    "category": "TN",
+    "subcategory": "策略控制",
+    "release": "Rel-15/16",
+    "description": "5G策略与配额控制规范，定义PCF与UDR交互。",
+    "keyFeatures": [
+      "5QI策略",
+      "ULCL分支",
+      "PCC规则"
+    ],
+    "url": "https://portal.3gpp.org/"
+  },
+  {
+    "id": "3gpp-ts24.501",
+    "name": "TS 24.501 - NAS",
+    "category": "TN",
+    "subcategory": "NAS协议",
+    "release": "Rel-15/16",
+    "description": "5GS NAS协议规范，包括注册、连接管理、移动性管理。",
+    "keyFeatures": [
+      "5GMM",
+      "5GSM",
+      "SECURITY mode command"
+    ],
+    "url": "https://portal.3gpp.org/"
+  },
+  {
+    "id": "3gpp-ts38.300",
+    "name": "TS 38.300 - NR",
+    "category": "TN",
+    "subcategory": "NR物理层",
+    "release": "Rel-15/16/17",
+    "description": "5G NR整体物理层规范，涵盖帧结构、子载波间隔、带宽部分。",
+    "keyFeatures": [
+      "numerology",
+      "frame structure",
+      "bandwidth part",
+      "TDD/FDD"
+    ],
+    "url": "https://portal.3gpp.org/"
+  },
+  {
+    "id": "3gpp-ts38.331",
+    "name": "TS 38.331 - RRC",
+    "category": "TN",
+    "subcategory": "RRC协议",
+    "release": "Rel-15/16/17",
+    "description": "5G NR RRC协议规范，定义UE与gNB间信令。",
+    "keyFeatures": [
+      "RRC Connection",
+      "System Information",
+      "Measurement Config",
+      "DRX"
+    ],
+    "url": "https://portal.3gpp.org/"
+  },
+  {
+    "id": "3gpp-ts38.211",
+    "name": "TS 38.211 - Channels",
+    "category": "TN",
+    "subcategory": "NR信道",
+    "release": "Rel-15/16",
+    "description": "5G NR物理信道和调制规范。",
+    "keyFeatures": [
+      "PDSCH",
+      "PUSCH",
+      "PDCCH",
+      "PBCH",
+      "PRACH"
+    ],
+    "url": "https://portal.3gpp.org/"
+  },
+  {
+    "id": "3gpp-ts38.212",
+    "name": "TS 38.212 - Multiplexing",
+    "category": "TN",
+    "subcategory": "NR复用",
+    "release": "Rel-15/16",
+    "description": "5G NR多路复用和信道编码规范。",
+    "keyFeatures": [
+      "PDCCH/PDSCH复用",
+      "LDPC编码",
+      "Polar编码"
+    ],
+    "url": "https://portal.3gpp.org/"
+  },
+  {
+    "id": "3gpp-ts23.247",
+    "name": "TS 23.247 - Architecture",
+    "category": "TN",
+    "subcategory": "架构增强",
+    "release": "Rel-16/17",
+    "description": "5G架构增强，包括网络切片、边缘计算。",
+    "keyFeatures": [
+      "Network Slicing",
+      "MEC",
+      "AF influence"
+    ],
+    "url": "https://portal.3gpp.org/"
+  },
+  {
+    "id": "3gpp-ts23.287",
+    "name": "TS 23.287 - Session Transport",
+    "category": "TN",
+    "subcategory": "会话传输",
+    "release": "Rel-17",
+    "description": "5G会话传输优化，支持低延迟和高可靠通信。",
+    "keyFeatures": [
+      "URLLC增强",
+      "TSN集成",
+      "时间敏感网络"
+    ],
+    "url": "https://portal.3gpp.org/"
+  },
+  {
+    "id": "3gpp-ts22.261",
+    "name": "TS 22.261 - Service Requirements",
+    "category": "TN",
+    "subcategory": "服务需求",
+    "release": "Rel-16/17",
+    "description": "5G服务需求总览，定义eMBB/URLLC/mMTC场景指标。",
+    "keyFeatures": [
+      "eMBB",
+      "URLLC",
+      "mMTC",
+      "RTT < 1ms"
+    ],
+    "url": "https://portal.3gpp.org/"
+  },
+  {
+    "id": "3gpp-ts22.104",
+    "name": "TS 22.104 - V2X",
+    "category": "TN",
+    "subcategory": "V2X通信",
+    "release": "Rel-16/17",
+    "description": "5G V2X服务需求，支持车辆与基础设施通信。",
+    "keyFeatures": [
+      "C-V2X",
+      "PC5接口",
+      "ProSe"
+    ],
+    "url": "https://portal.3gpp.org/"
+  },
+  {
+    "id": "3gpp-ts38.401",
+    "name": "TS 38.401 - NG-RAN",
+    "category": "TN",
+    "subcategory": "NG-RAN架构",
+    "release": "Rel-15/16",
+    "description": "5G NG-RAN整体架构，gNB/ng-eNB互联规范。",
+    "keyFeatures": [
+      "gNB架构",
+      "Xn接口",
+      "F1接口",
+      "ng接口"
+    ],
+    "url": "https://portal.3gpp.org/"
+  },
+  {
+    "id": "3gpp-ts38.402",
+    "name": "TS 38.402 - NG-RAN Functions",
+    "category": "TN",
+    "subcategory": "NG-RAN功能",
+    "release": "Rel-15/16",
+    "description": "NG-RAN功能和接口规范。",
+    "keyFeatures": [
+      "切换",
+      "负载均衡",
+      "干扰协调"
+    ],
+    "url": "https://portal.3gpp.org/"
+  },
+  {
+    "id": "3gpp-ts29.502",
+    "name": "TS 29.502 - NSSF",
+    "category": "TN",
+    "subcategory": "NSSF服务",
+    "release": "Rel-15/16",
+    "description": "网络切片选择功能(NSSF)服务化接口。",
+    "keyFeatures": [
+      "SBI",
+      "Nnssf",
+      "切片选择"
+    ],
+    "url": "https://portal.3gpp.org/"
+  },
+  {
+    "id": "3gpp-ts29.510",
+    "name": "TS 29.510 - AUSF",
+    "category": "TN",
+    "subcategory": "鉴权服务",
+    "release": "Rel-15/16",
+    "description": "认证服务器功能(AUSF)服务化接口。",
+    "keyFeatures": [
+      "5AKA",
+      "EAP-AKA prime",
+      "ARPF"
+    ],
+    "url": "https://portal.3gpp.org/"
+  },
+  {
+    "id": "3gpp-ts23.122",
+    "name": "TS 23.122 - Non-Access Stratum",
+    "category": "TN",
+    "subcategory": "NAS非接入",
+    "release": "Rel-15",
+    "description": "NAS层非接入层功能，包括附着、位置更新。",
+    "keyFeatures": [
+      "IMSI attach",
+      "LAI updates",
+      "CS fallback"
+    ],
+    "url": "https://portal.3gpp.org/"
+  },
+  {
+    "id": "3gpp-ts24.301",
+    "name": "TS 24.301 - EPS NAS",
+    "category": "TN",
+    "subcategory": "EPS NAS",
+    "release": "Rel-15",
+    "description": "EPS NAS协议规范，LTE演进。",
+    "keyFeatures": [
+      "attach流程",
+      "PDN连接",
+      "移动性管理"
+    ],
+    "url": "https://portal.3gpp.org/"
+  },
+  {
+    "id": "3gpp-ts36.300",
+    "name": "TS 36.300 - E-UTRA",
+    "category": "TN",
+    "subcategory": "LTE物理层",
+    "release": "Rel-15",
+    "description": "E-UTRA整体描述，LTE物理层基础。",
+    "keyFeatures": [
+      "OFDMA",
+      "SC-FDMA",
+      "MIMO",
+      "载波聚合"
+    ],
+    "url": "https://portal.3gpp.org/"
+  },
+  {
+    "id": "3gpp-ts38.213",
+    "name": "TS 38.213 - Physical Procedures",
+    "category": "TN",
+    "subcategory": "NR物理过程",
+    "release": "Rel-15/16",
+    "description": "5G NR物理层过程规范，包括调度、HARQ、波束管理。",
+    "keyFeatures": [
+      "Downlink scheduling",
+      "Uplink scheduling",
+      "HARQ-ACK",
+      "Beam management"
+    ],
+    "url": "https://portal.3gpp.org/"
+  }
+]

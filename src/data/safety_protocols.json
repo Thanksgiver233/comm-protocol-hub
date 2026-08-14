@@ -1,0 +1,121 @@
+[
+  {
+    "id": "3gpp-ts22.268",
+    "name": "TS 22.268 - Mission Critical",
+    "category": "SAFETY",
+    "subcategory": "关键任务通信",
+    "release": "Rel-16/17",
+    "description": "关键任务通信服务需求规范，支持应急和公共安全。",
+    "keyFeatures": [
+      "MCPTT",
+      "MCVideo",
+      "MCData",
+      "优先级抢占"
+    ],
+    "url": "https://portal.3gpp.org/"
+  },
+  {
+    "id": "3gpp-ts23.278",
+    "name": "TS 23.278 - MCX Architecture",
+    "category": "SAFETY",
+    "subcategory": "MCX架构",
+    "release": "Rel-16",
+    "description": "MCX（语音/视频/数据）服务架构规范。",
+    "keyFeatures": [
+      "MCX服务器",
+      "IMS集成",
+      "组呼",
+      "紧急广播"
+    ],
+    "url": "https://portal.3gpp.org/"
+  },
+  {
+    "id": "3gpp-ts24.379",
+    "name": "TS 24.379 - MCX Protocols",
+    "category": "SAFETY",
+    "subcategory": "MCX协议",
+    "release": "Rel-16/17",
+    "description": "MCX会话控制协议规范。",
+    "keyFeatures": [
+      "SIP扩展",
+      "MCPTT信令",
+      "MCVideo呼叫",
+      "MCData消息"
+    ],
+    "url": "https://portal.3gpp.org/"
+  },
+  {
+    "id": "3gpp-ts22.104-safety",
+    "name": "TS 22.104 Safety",
+    "category": "SAFETY",
+    "subcategory": "公共安全",
+    "release": "Rel-17",
+    "description": "公共安全通信需求，支持灾害应急。",
+    "keyFeatures": [
+      "灾害预警",
+      "优先接入",
+      "群呼广播",
+      "离线通信"
+    ],
+    "url": "https://portal.3gpp.org/"
+  },
+  {
+    "id": "3gpp-ts23.682",
+    "name": "TS 23.682 - ProSe Safety",
+    "category": "SAFETY",
+    "subcategory": "ProSe安全",
+    "release": "Rel-16",
+    "description": "Proximity Services安全功能，包括位置安全和身份保护。",
+    "keyFeatures": [
+      "位置隐私",
+      "身份隐藏",
+      "安全发现",
+      "紧急SOS"
+    ],
+    "url": "https://portal.3gpp.org/"
+  },
+  {
+    "id": "3gpp-ts33.501",
+    "name": "TS 33.501 - 5G Security",
+    "category": "SAFETY",
+    "subcategory": "5G安全架构",
+    "release": "Rel-15/16/17",
+    "description": "5G安全架构和程序总规范。",
+    "keyFeatures": [
+      "SUPI隐藏",
+      "Authentication",
+      "Encryption",
+      "Integrity"
+    ],
+    "url": "https://portal.3gpp.org/"
+  },
+  {
+    "id": "3gpp-ts33.501-sms",
+    "name": "TS 33.501 SMS over NAS",
+    "category": "SAFETY",
+    "subcategory": "SMS安全",
+    "release": "Rel-16",
+    "description": "SMS over NAS安全增强。",
+    "keyFeatures": [
+      "NAS加密",
+      "SMS完整性",
+      "IMS Secure"
+    ],
+    "url": "https://portal.3gpp.org/"
+  },
+  {
+    "id": "3gpp-ts22.104-ee",
+    "name": "TS 22.104 EE",
+    "category": "SAFETY",
+    "subcategory": "紧急警告",
+    "release": "Rel-17",
+    "description": "Earth Emergency警告系统需求。",
+    "keyFeatures": [
+      "ETWS",
+      "CMAS",
+      "PWS",
+      "区域广播"
+    ],
+    "url": "https://portal.3gpp.org/"
+  }
+]

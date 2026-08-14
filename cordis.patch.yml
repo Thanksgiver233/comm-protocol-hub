@@ -1,0 +1,4 @@
+- insert:
+    - id: comm-protocol-hub
+      name: dsh-comm-protocol-hub
+      config: {}

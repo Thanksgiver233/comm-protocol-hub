@@ -1,0 +1,92 @@
+[
+  {
+    "id": "3gpp-ts38.342",
+    "name": "TS 38.342 - Holographic Comm",
+    "category": "HOLOGRAPHIC",
+    "subcategory": "全息通信架构",
+    "release": "Rel-18",
+    "description": "全息通信(Holographic Communication)系统架构规范，支持三维空间通信和全息投影交互。",
+    "keyFeatures": [
+      "全息数据表示",
+      "3D场景建模",
+      "空间音频",
+      "实时渲染"
+    ],
+    "url": "https://portal.3gpp.org/"
+  },
+  {
+    "id": "3gpp-ts26.345",
+    "name": "TS 26.345 - Holographic Media",
+    "category": "HOLOGRAPHIC",
+    "subcategory": "全息媒体处理",
+    "release": "Rel-18",
+    "description": "全息媒体编码和解码规范，支持高效三维数据传输。",
+    "keyFeatures": [
+      "点云编码",
+      "体积视频",
+      "全息视频编码",
+      "全息信源编码"
+    ],
+    "url": "https://portal.3gpp.org/"
+  },
+  {
+    "id": "3gpp-ts26.246",
+    "name": "TS 26.246 - XR Video",
+    "category": "HOLOGRAPHIC",
+    "subcategory": "XR视频传输",
+    "release": "Rel-17/18",
+    "description": "扩展现实(XR)视频传输规范，为全息通信提供视频基础。",
+    "keyFeatures": [
+      "视频编码HEVC/H.266",
+      "XR场景描述",
+      "沉浸式体验",
+      "低延迟传输"
+    ],
+    "url": "https://portal.3gpp.org/"
+  },
+  {
+    "id": "3gpp-ts22.261-holo",
+    "name": "TS 22.261 Holographic",
+    "category": "HOLOGRAPHIC",
+    "subcategory": "全息需求",
+    "release": "Rel-18",
+    "description": "全息通信服务需求规范，定义带宽、延迟、可靠性指标。",
+    "keyFeatures": [
+      "Tbps级带宽",
+      "微秒级延迟",
+      "全息保真度",
+      "实时交互"
+    ],
+    "url": "https://portal.3gpp.org/"
+  },
+  {
+    "id": "3gpp-ts23.501-holo",
+    "name": "TS 23.501 Holographic",
+    "category": "HOLOGRAPHIC",
+    "subcategory": "全息架构",
+    "release": "Rel-18",
+    "description": "支持全息通信的5G架构增强，包括MEC和边缘渲染。",
+    "keyFeatures": [
+      "边缘渲染",
+      "内容交付网络",
+      "全息会话管理",
+      "服务质量保障"
+    ],
+    "url": "https://portal.3gpp.org/"
+  },
+  {
+    "id": "3gpp-ts38.306-holo",
+    "name": "TS 38.306 Holographic UE",
+    "category": "HOLOGRAPHIC",
+    "subcategory": "全息终端",
+    "release": "Rel-18",
+    "description": "全息通信终端能力规范，包括传感器和显示能力。",
+    "keyFeatures": [
+      "多模态输入",
+      "空间感知",
+      "3D显示",
+      "手势识别"
+    ],
+    "url": "https://portal.3gpp.org/"
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "id": "3gpp-ts38.822",
+    "name": "TS 38.822 - Hybrid Comm",
+    "category": "HYBRID",
+    "subcategory": "近远场混合架构",
+    "release": "Rel-18",
+    "description": "近远场混合通信系统架构规范，支持自适应切换。",
+    "keyFeatures": [
+      "自适应波束",
+      "近远场无缝切换",
+      "动态频段选择",
+      "智能路由"
+    ],
+    "url": "https://portal.3gpp.org/"
+  },
+  {
+    "id": "3gpp-ts23.501-hybrid",
+    "name": "TS 23.501 Hybrid",
+    "category": "HYBRID",
+    "subcategory": "混合架构",
+    "release": "Rel-18",
+    "description": "支持混合通信模式的5G架构扩展。",
+    "keyFeatures": [
+      "NPN+公网融合",
+      "多频段聚合",
+      "跨域切换",
+      "统一QoS"
+    ],
+    "url": "https://portal.3gpp.org/"
+  },
+  {
+    "id": "3gpp-ts38.300-hybrid",
+    "name": "TS 38.300 Hybrid",
+    "category": "HYBRID",
+    "subcategory": "混合物理层",
+    "release": "Rel-18",
+    "description": "混合通信的物理层增强，支持近远场联合传输。",
+    "keyFeatures": [
+      "联合波束管理",
+      "多RAT协同",
+      "频谱共享",
+      "干扰协调"
+    ],
+    "url": "https://portal.3gpp.org/"
+  },
+  {
+    "id": "3gpp-ts22.261-hybrid",
+    "name": "TS 22.261 Hybrid",
+    "category": "HYBRID",
+    "subcategory": "混合服务需求",
+    "release": "Rel-18",
+    "description": "混合通信服务需求，定义多模式接入体验指标。",
+    "keyFeatures": [
+      "零切换延迟",
+      "无缝切换",
+      "一致性体验",
+      "多连接聚合"
+    ],
+    "url": "https://portal.3gpp.org/"
+  },
+  {
+    "id": "3gpp-ts37.215",
+    "name": "TS 37.215 - EN-DC Hybrid",
+    "category": "HYBRID",
+    "subcategory": "EN-DC混合",
+    "release": "Rel-15/16",
+    "description": "E-UTRA-NR双连接(EN-DC)混合架构规范。",
+    "keyFeatures": [
+      "LTE-NR双连接",
+      "主节点锚定",
+      "载波聚合",
+      "流量分裂"
+    ],
+    "url": "https://portal.3gpp.org/"
+  },
+  {
+    "id": "3gpp-ts38.300-mrna",
+    "name": "TS 38.300 MR-DC",
+    "category": "HYBRID",
+    "subcategory": "MR-DC混合",
+    "release": "Rel-16/17",
+    "description": "多无线电双连接(MR-DC)架构规范。",
+    "keyFeatures": [
+      "NR-DC",
+      "NE-DC",
+      "NN-DC",
+      "互操作"
+    ],
+    "url": "https://portal.3gpp.org/"
+  }
+]

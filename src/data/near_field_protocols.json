@@ -1,0 +1,92 @@
+[
+  {
+    "id": "3gpp-ts22.262-near",
+    "name": "TS 22.262 - Near Field Comm",
+    "category": "NEAR_FIELD",
+    "subcategory": "近场通信需求",
+    "release": "Rel-17",
+    "description": "近场通信(NFC/RFID/超宽带)服务需求规范，定义短距离无线通信场景。",
+    "keyFeatures": [
+      "NFC",
+      "RFID",
+      "UWB",
+      "近距离安全"
+    ],
+    "url": "https://portal.3gpp.org/"
+  },
+  {
+    "id": "3gpp-ts36.521-near",
+    "name": "TS 36.521 - NFC UE",
+    "category": "NEAR_FIELD",
+    "subcategory": "NFC终端协议",
+    "release": "Rel-17",
+    "description": "NFC终端协议栈规范，支持支付、门禁、数据交换。",
+    "keyFeatures": [
+      "NFC-DE协议",
+      "LLCP",
+      "LLC",
+      "SE安全元件"
+    ],
+    "url": "https://portal.3gpp.org/"
+  },
+  {
+    "id": "3gpp-ts31.111-near",
+    "name": "TS 31.111 - UICC NFC",
+    "category": "NEAR_FIELD",
+    "subcategory": "UICC近场",
+    "release": "Rel-16",
+    "description": "UICC上的NFC功能规范，支持嵌入式安全元件。",
+    "keyFeatures": [
+      "eSE",
+      "NFCEE",
+      "SE API",
+      "移动支付"
+    ],
+    "url": "https://portal.3gpp.org/"
+  },
+  {
+    "id": "3gpp-ts23.082-near",
+    "name": "TS 23.082 - ProSe Near",
+    "category": "NEAR_FIELD",
+    "subcategory": "ProSe近场",
+    "release": "Rel-17",
+    "description": "Proximity Services近场通信服务架构，支持设备到设备直连。",
+    "keyFeatures": [
+      "D2D通信",
+      "Sidelink",
+      "发现服务",
+      "中继通信"
+    ],
+    "url": "https://portal.3gpp.org/"
+  },
+  {
+    "id": "3gpp-ts38.521-near",
+    "name": "TS 38.521 - UWB NR",
+    "category": "NEAR_FIELD",
+    "subcategory": "UWB NR适配",
+    "release": "Rel-18",
+    "description": "5G NR对超宽带(UWB)的定位和通信支持。",
+    "keyFeatures": [
+      "UWB测距",
+      "高精度定位",
+      "厘米级精度",
+      "室内导航"
+    ],
+    "url": "https://portal.3gpp.org/"
+  },
+  {
+    "id": "3gpp-ts26.114-near",
+    "name": "TS 26.114 - Near Field Media",
+    "category": "NEAR_FIELD",
+    "subcategory": "近场媒体传输",
+    "release": "Rel-17",
+    "description": "近场通信中的多媒体传输规范。",
+    "keyFeatures": [
+      "触媒共享",
+      "近场内容分发",
+      "交互式体验",
+      "AR辅助"
+    ],
+    "url": "https://portal.3gpp.org/"
+  }
+]

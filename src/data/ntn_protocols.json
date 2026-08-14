@@ -1,0 +1,148 @@
+[
+  {
+    "id": "3gpp-ts37.820",
+    "name": "TS 37.820 - NTN Architecture",
+    "category": "NTN",
+    "subcategory": "NTN总体架构",
+    "release": "Rel-17",
+    "description": "非地面网络(NTN)总体架构规范，定义卫星通信与地面网络的融合架构。",
+    "keyFeatures": [
+      "LEO/MEO/GEO卫星",
+      "卫星波束",
+      "空间段架构",
+      "NTN-RAN"
+    ],
+    "url": "https://portal.3gpp.org/"
+  },
+  {
+    "id": "3gpp-ts38.821",
+    "name": "TS 38.821 - NTN NR",
+    "category": "NTN",
+    "subcategory": "NTN NR物理层",
+    "release": "Rel-17",
+    "description": "NTN场景下5G NR物理层适配规范，针对高延迟和大传播时延优化。",
+    "keyFeatures": [
+      "传播时延补偿",
+      "Doppler预补偿",
+      "时隙格式适配",
+      "NTN-specific numerology"
+    ],
+    "url": "https://portal.3gpp.org/"
+  },
+  {
+    "id": "3gpp-ts23.304",
+    "name": "TS 23.304 - NTN Mobility",
+    "category": "NTN",
+    "subcategory": "NTN移动性",
+    "release": "Rel-17",
+    "description": "NTN移动性管理，卫星切换和波束切换流程。",
+    "keyFeatures": [
+      "卫星切换",
+      "波束切换",
+      "位置辅助",
+      "星历信息"
+    ],
+    "url": "https://portal.3gpp.org/"
+  },
+  {
+    "id": "3gpp-ts23.401",
+    "name": "TS 23.401 - EPS NTN",
+    "category": "NTN",
+    "subcategory": "NTN LTE融合",
+    "release": "Rel-17",
+    "description": "EPS架构下的NTN融合方案，支持LTE-over-satellite。",
+    "keyFeatures": [
+      "eNodeB over satellite",
+      "S1-MME over NTN",
+      "S1-U over NTN"
+    ],
+    "url": "https://portal.3gpp.org/"
+  },
+  {
+    "id": "3gpp-ts22.175",
+    "name": "TS 22.175 - NTN Requirements",
+    "category": "NTN",
+    "subcategory": "NTN需求",
+    "release": "Rel-17",
+    "description": "NTN服务需求规范，定义卫星通信的场景和KPI要求。",
+    "keyFeatures": [
+      "覆盖增强",
+      "延迟预算",
+      "带宽效率",
+      "成本优化"
+    ],
+    "url": "https://portal.3gpp.org/"
+  },
+  {
+    "id": "3gpp-ts38.304",
+    "name": "TS 38.304 - NTN UE Procedures",
+    "category": "NTN",
+    "subcategory": "NTN UE过程",
+    "release": "Rel-17",
+    "description": "NTN场景下UE行为规范，包括初始接入、测量上报。",
+    "keyFeatures": [
+      "NTN随机接入",
+      "测量报告",
+      "TA补偿",
+      "位置服务"
+    ],
+    "url": "https://portal.3gpp.org/"
+  },
+  {
+    "id": "3gpp-ts23.501-ntn",
+    "name": "TS 23.501 NTN Annex",
+    "category": "NTN",
+    "subcategory": "NTN架构附录",
+    "release": "Rel-17/18",
+    "description": "5G系统架构中对NTN支持的附录扩展。",
+    "keyFeatures": [
+      "5GC NTN适配",
+      "UPF近卫星部署",
+      "gNB-DU分离"
+    ],
+    "url": "https://portal.3gpp.org/"
+  },
+  {
+    "id": "3gpp-ts38.213-ntn",
+    "name": "TS 38.213 NTN",
+    "category": "NTN",
+    "subcategory": "NTN调度",
+    "release": "Rel-17",
+    "description": "NTN场景下的下行和上行调度规范。",
+    "keyFeatures": [
+      "HARQ-ACK时序适配",
+      "调度偏移",
+      "功率控制增强"
+    ],
+    "url": "https://portal.3gpp.org/"
+  },
+  {
+    "id": "3gpp-ts22.261-ntn",
+    "name": "TS 22.261 NTN",
+    "category": "NTN",
+    "subcategory": "NTN服务需求",
+    "release": "Rel-18",
+    "description": "NTN增强服务需求，包括Direct-to-Cell场景。",
+    "keyFeatures": [
+      "Direct-to-Cell",
+      "Direct-to-Device",
+      "IoT卫星",
+      "语音-over-satellite"
+    ],
+    "url": "https://portal.3gpp.org/"
+  },
+  {
+    "id": "3gpp-ts38.331-ntn",
+    "name": "TS 38.331 NTN",
+    "category": "NTN",
+    "subcategory": "NTN RRC",
+    "release": "Rel-17",
+    "description": "NTN场景下的RRC协议扩展。",
+    "keyFeatures": [
+      "NTN System Information",
+      "卫星辅助信息",
+      "TA Group配置"
+    ],
+    "url": "https://portal.3gpp.org/"
+  }
+]
